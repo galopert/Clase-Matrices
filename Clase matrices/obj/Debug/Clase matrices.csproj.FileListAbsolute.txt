@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\bin\Debug\Clase matrices.exe.config
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\bin\Debug\Clase matrices.exe
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\bin\Debug\Clase matrices.pdb
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\obj\Debug\Clase matrices.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\obj\Debug\Clase matrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\obj\Debug\Clase matrices.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\obj\Debug\Clase matrices.exe
+C:\Users\Usuario\Desktop\Archivos Visual Studio\Clase matrices\Clase matrices\obj\Debug\Clase matrices.pdb
